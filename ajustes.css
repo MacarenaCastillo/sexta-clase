@@ -1,0 +1,14 @@
+/*Aca estan los ajustes*/
+body {background:#444444; padding-top: 50px;}
+h1,h2{color:white;}
+h1{font-size: 3em;}
+h2{font-size: 1.5em;}
+
+h3{color:#e4f9de;}
+
+
+a{color:teal;}
+a:visited{color:cyan;}
+footer {padding-top: 5px; padding-bottom: 5px;}
+img {max-width: 200px; float:left; margin-right: 15px;}
+ul{ list-style-position: inside}
